@@ -1,3 +1,3 @@
 # Strapi application
 
-A quick description of your strapi application
+This application will be used to serve content to a landing page
